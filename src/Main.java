@@ -3,5 +3,6 @@ public class Main {
         System.out.println("our first shared repo");
         System.out.println("this is the other partner adding some code");
         System.out.println("what's up");
+        System.out.println("not much!");
     }
 }
