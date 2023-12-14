@@ -9,4 +9,8 @@ public class SomeClass {
     public void hello() {
         System.out.println("hello what's up");
     }
+
+    public void partner2Method() {
+        System.out.println("yippee!");
+    }
 }
