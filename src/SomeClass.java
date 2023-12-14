@@ -13,4 +13,8 @@ public class SomeClass {
     public void partner1Method() {
         System.out.println("yay");
     }
+
+    public void partner2Method() {
+        System.out.println("yippee!");
+    }
 }
